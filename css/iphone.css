@@ -1,0 +1,156 @@
+/* celular grande 1ro */
+.cel_colores{
+    height: 450px;
+    background: no-repeat;
+    background-color: rgba(247,247,247);
+
+}
+@media(min-width:709px){
+.cel_colores{
+    background-image:url(../../img/otras/tel_coloresgrande.png);
+}
+}
+
+
+@media(max-width:709px){
+.cel_colores{
+    background-image:url(../../img/otras/telcolor.jpg);
+}
+}
+/*celular rojo */
+.foto{
+    height: 450px;
+    background: no-repeat;
+    background-color: rgba(176, 14, 35);
+
+}
+@media(min-width:709px){
+.foto{
+    background-image:url(../../img/otras/tel_completa.png);
+}
+}
+
+@media(max-width:709px){
+.foto{
+    background-image:url(../../img/otras/tel_small.png);
+}
+}
+/*3 celulares*/    
+
+.cel_3colores{
+    height: 450px;
+    background: no-repeat;
+    background-color: rgba(250,250,250);
+
+}
+@media(min-width:709px){
+.cel_3colores{
+    background-image:url(../../img/otras/3celulares_grande.png);
+}
+}
+@media(max-width:709px){
+.cel_3colores{
+    background-image:url(../../img/otras/3celulares.jpg);
+}
+}
+
+color_blanco{
+    background-color: rgb(252, 252, 252);
+    height: 50em;
+
+
+}
+
+/* foto mujer con celular*/
+.cel_mujer{
+    height: 600px;
+    background: no-repeat;
+    background-color: rgba(216,205,201);
+}
+
+@media(min-width:709px){
+.cel_mujer{
+    background-image:url(../../img/otras/mujer_grande.png);
+}
+}
+@media(max-width:709px){
+.cel_mujer{
+    background-image:url(../../img/otras/mujer.jpg);
+}
+}
+
+
+
+
+
+
+/*
+
+.container{
+    background-color: red;
+    height: 0px;
+    }
+    
+    .color_rojo{
+        background-color: rgba(216, 68, 93, 0.91);
+        height: 700px;
+    }
+    
+    .color_rojo2{
+        background-color: rgb(172, 17, 17);
+        height: 600px;
+    }
+    
+    
+    
+    
+    
+    .img-fluid{
+        width: 100% ;
+    }
+    
+    .letras1{
+        font-size: 3rem;
+        color: black;
+        font-weight: bold; 
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align:center;
+    
+    }
+    
+    .letras2{
+    font-size: 2rem;
+    color: black;
+    font-weight: bold; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:center;
+    }
+    
+    .letras3{
+        font-size: 1rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align:center;
+        color: rgb(85, 85, 218);
+    }
+    
+    .letras4{
+        font-size: 3rem;
+        color: black;
+        font-weight: bold; 
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align:center;
+        }
+        
+    .letras5{
+        font-size: 1rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align:center;
+        color: blue;
+        }
+    
+    .img{
+        background-color: rgba(176,14,35);
+    
+    
+    }
+    */
